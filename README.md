@@ -34,7 +34,7 @@ However, in 2018, the original Cydia developer, Saurik, ceased updating the plat
 
 Cydia Plus is a modified version developed by the Cydia Plus team. This alternative to Cydia caters specifically to the latest iOS versions. It empowers users to install jailbreak tweaks and third-party apps without requiring an untethered jailbreak on their devices. A fresh approach for a new era of iOS customization.
 
-*Cydia Plus is not the official Cydia. Instead, it's a modified version that supports both jailed and jailbroken iPhone and iPad devices on all the latest iOS versions, making device customization easy without the need for jailbreaking.*
+*Important: Cydia Plus is not the official Cydia. Instead, it's a modified version that supports both jailed and jailbroken iPhone and iPad devices on all the latest iOS versions, making device customization easy without the need for jailbreaking.*
 
 ## Frequently Asked Questions about Cydia Plus
 
