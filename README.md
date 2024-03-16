@@ -4,6 +4,8 @@ Cydia Plus is the jailbreak app manager developed for the latest iOS versions. W
 
 ## Best No Jailbreak App Manager for iOS 16 - iOS 17.4
 
+![Cover Image](https://github.com/Cydia2/install-cydia/blob/main/Assets/Install%20Cydia%20for%20All%20iOS%20Versions.png)
+
 <div align="center">
   
 📥 [Install Cydia Plus](https://iospack.com/store/#cydia)
