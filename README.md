@@ -58,3 +58,9 @@ Cydia Plus is a modified version developed by the Cydia Plus team. This alternat
 
 7. **Do I need to jailbreak my device to install Cydia Plus?**
    - No, Cydia Plus can be installed on your device without the need for jailbreaking. This makes it accessible to a wider audience, offering customization options to users without the associated risks of jailbreaking.
+
+## Credits
+
+- **Jay Freeman (saurik)**: Cydia - An application developed by Jay Freeman that enables the installation of software on “jailbroken” Apple devices. It allows users to download and install software from sources other than the Apple App Store on devices running operating systems such as iOS and iPadOS, which have protected privileges by default.
+
+- **Cydia Plus Dev Team**: Cydia Plus - Created by the Cydia Plus development team, this project aims to empower individuals who seek true usability for their devices. The team encourages users who are unafraid to express themselves through technology.
