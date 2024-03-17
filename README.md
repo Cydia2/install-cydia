@@ -1,4 +1,4 @@
-# Install Cydia for All iOS Versions [2024] - Full Guide
+# Cydia | Install Cydia for All iOS Versions [2024] - Full Guide
 
 Cydia Plus is the jailbreak app manager developed for the latest iOS versions. With Cydia Plus, you can add repos and install amazing jailbreak tweaks, themes, and third-party apps, offering support for any iOS 15, iOS 16, and iOS 17 to iOS 17.4 iPhone and iPad devices.
 
