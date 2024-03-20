@@ -36,6 +36,18 @@ Cydia Plus is a modified version developed by the Cydia Plus team. This alternat
 
 *Important: Cydia Plus is not the official Cydia. Instead, it's a modified version that supports both jailed and jailbroken iPhone and iPad devices on all the latest iOS versions, making device customization easy without the need for jailbreaking.*
 
+## iOS 17 - iOS 17.5 Jailbreak [100% Trusted Solutions]
+
+The jailbreak for iOS 17, iOS 17.2, and iOS 17.3 has been verified, leveraging the checkm8 exploit. A variety of jailbreak repo extraction and virtual jailbreak solutions have been validated for iOS 17 to 17.3.1.
+
+There's no need for a computer or complex sideload procedures for repo extraction and virtual jailbreak methods. These can be directly installed as an application to activate jailbreak functionalities for iOS 17, 17.2, 17.3, 17.4, and so on.
+
+📥 [Best iOS 17 - iOS 17.5 Jailbreak tools](https://github.com/iOS17Updates/iOS-17-Jailbreak#best-ios-17---ios-174-jailbreak-solutions-latest)
+
+📥 [Repo extraction based iOS 17 - 17.3.1 Jailbreak solutions](https://github.com/iOS17Updates/iOS-17-Jailbreak#jailbreak-repo-extractor-based-ios-17---ios-174-jailbreak-solutions)
+
+📥 [Checkm8 exploit based iOS 17 - 17.3 Jailbreak solutions](https://github.com/iOS17Updates/iOS-17-Jailbreak#checkm8-based-jailbreak-for-ios-17---ios-174-jailbreak)
+
 ## Frequently Asked Questions about Cydia Plus
 
 1. **What is Cydia Plus?**
